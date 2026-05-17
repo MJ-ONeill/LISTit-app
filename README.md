@@ -2,7 +2,9 @@
 ![LISTit Logo](images/logo.png)
 
 
-#LINK-TO_APP - https://listit-app.netlify.app/
+#LINK-TO_APP - https://listit-app.netlify.app/ 
+
+Fully responsive, Use it on any screen size.
 
 Welcome to LISTit! This is a web app that allows you to create and manage nested lists with tasks. Whether you're organizing your daily tasks, making a to-do list, or keeping track of your goals, LISTit has got you covered.
 
